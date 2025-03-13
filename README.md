@@ -7,7 +7,7 @@ A modern, responsive Kanban board application built with React, Redux, and Mater
 
 
 ## Demo:
-Click => [Here](https://kanban-board-task-ten.vercel.app){:target="_blank"}
+Click => [Here](https://kanban-board-task-ten.vercel.app)
 ## Features
 Kanban Board Layout: Four columns representing different stages of task completion (To Do, In Progress, Peer Review, Done)
 Task Management: Create, read, update, and delete tasks
